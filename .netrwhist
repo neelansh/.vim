@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/neelansh/Bahadur/pipeline'
+let g:netrw_dirhist_2='/home/neelansh/Bahadur/pipeline/FaceRecog'
+let g:netrw_dirhist_3='/home/neelansh/Bahadur/pipeline/FaceRecog/model'
+let g:netrw_dirhist_4='/home/neelansh/Bahadur/pipeline'
+let g:netrw_dirhist_5='/home/neelansh/Bahadur/pipeline/FaceRecog'
+let g:netrw_dirhist_6='/home/neelansh/Bahadur/pipeline'
+let g:netrw_dirhist_7='/home/neelansh/Bahadur/pipeline/FaceRecog'
+let g:netrw_dirhist_8='/home/neelansh/Bahadur/pipeline'
+let g:netrw_dirhist_9='/home/neelansh/Bahadur/pipeline/FaceRecog'

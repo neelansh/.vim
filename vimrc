@@ -12,6 +12,7 @@ Plugin 'tpope/vim-fugitive'
 Plugin 'itchyny/lightline.vim'
 Plugin 'git://git.wincent.com/command-t.git'
 Plugin 'davidhalter/jedi-vim'
+Plugin 'ajh17/VimCompletesMe'
 call vundle#end()            " required
 filetype plugin indent on    " required
 " Brief help

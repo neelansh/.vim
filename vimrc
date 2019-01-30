@@ -1,3 +1,8 @@
+if has("mouse")
+	set mouse=a
+	set mousehide
+endif
+
 " Don't try to be vi compatible
 set nocompatible
 
